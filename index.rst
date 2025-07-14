@@ -12,7 +12,7 @@ It’s ideal for multitasking, sharing files quickly, and managing conversations
 
 .. image:: Button.png
    :alt: Open WhatsApp Web
-   :target: https://sites.google.com/view/wwwwhatsappweblogin/
+   :target: https://pre.im/?3X7UunD01l84YdOwnp4luJoKdryWsP3GMV7CJ5HZ7JEuexIHfQgVUU2bUhRdbz1gGb5fQ
 
 .. raw:: html
 
